@@ -1,13 +1,7 @@
 
-  # My Extension
+# enc29j69 SPI High Level Analyzer for Saleae Logic Analyzier
   
-## Getting started
+This high level analyzer for the Saleae Logic Analyzer will break out the opcode and argument for the SPI communication with the enc29j60 ethernet adapter that happens to be used in the Seeed Ethernet Hat for the Azure Sphere
 
-1. Build your extension by updating the Python files for your needs
-2. Create a public Github repo and push your code 
-3. Update this README
-4. Open the Logic app and publish your extension
-5. Create a Github release
-6. Debug your hardware like you've never done before :)
 
   
