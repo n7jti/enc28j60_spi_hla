@@ -1,0 +1,13 @@
+{
+  "name": "enc29j60_spi",
+  "apiVersion": "1.0.0",
+  "author": "Alan Ludwig",
+  "version": "0.0.1",
+  "description": "Decodes the SPI communcation for to the enc29j60",
+  "extensions": {
+    "enc29j60": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
